@@ -1,0 +1,15 @@
+<type>: <description>
+
+[optional body]
+
+[optional footer(s)]
+
+-------------------------------------------
+
+Commit Example:
+
+[BOA-1234]
+test: Create J1939 unit test
+
+Unit tests have been added to the single frame build part.
+
