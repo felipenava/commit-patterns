@@ -46,7 +46,7 @@ The semantic commit has the structural elements below (types), which inform the 
 
 ## Commit Supplements 💻
 
-- **Footer:** information about the reviewer and card number on Trello or Jira. Example: Reviewed-by: Elisandro Mello Refs #133
+- **Footer:** information about the reviewer and card number on Trello or Jira. Example: Reviewed-by: Felipe Nava Refs #133
 - **Body:** more precise descriptions of what is contained in the commit, presenting impacts and reasons for the changes made to the code, as well as essential instructions for future interventions. Example: see the issue for details on typos fixed.
 - **Descriptions:** a succinct description of the change. Example: correct minor typos in code
 
